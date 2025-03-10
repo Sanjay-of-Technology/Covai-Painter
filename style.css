@@ -25,7 +25,25 @@ body{
     font-variant: small-caps;
 }
 
+.footer-section{
+    background-color: black;
+    color: white;
+    padding-top: 8px;
+    margin-bottom: 3px;
+}
 
+.additional{
+    background-color: #333;
+    color: yellowgreen;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+
+
+
+
+
+/* ----- Media Qurey ----- */
 
 @media (max-width:1000px){
     html{
