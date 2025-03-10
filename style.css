@@ -55,6 +55,20 @@ body{
     }
 }
 
+@media (max-width:600px){
+    html{
+        font-size: 13px;
+    }
+
+    .about-section .as-1{
+        margin-top: 25px;
+    }
+
+    .about-ul{
+        font-size: 8.5px;
+    }
+}
+
 @media (max-width:500px){
     html{
         font-size: 10px;
@@ -65,7 +79,7 @@ body{
     }
 
     .about-ul{
-        font-size: 7.8px;
+        font-size: 7.5px;
     }
 }
 
