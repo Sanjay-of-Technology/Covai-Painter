@@ -42,7 +42,7 @@ body{
 .carousel-item {
     object-fit: cover;
     object-position: top;
-    height: 85vh;
+    height: 82vh;
     overflow: hidden;
 }
 
@@ -62,9 +62,8 @@ body{
     .about-ul{
         font-size: 14px;
     }
-
     .carousel-item {
-        height: 85vh;
+        height: 61vh;
     }
 }
 
@@ -80,9 +79,9 @@ body{
     .about-ul{
         font-size: 12px;
     }
-    
+
     .carousel-item {
-        height: 75vh;
+        height: 50vh;
     }
 }
 
@@ -97,11 +96,6 @@ body{
 
     .about-ul{
         font-size: 9px;
-    }
-
-    
-    .carousel-item {
-        height: 65vh;
     }
 }
 
@@ -118,9 +112,8 @@ body{
         font-size: 8px;
     }
 
-    
     .carousel-item {
-        height: 55vh;
+        height: 30vh;
     }
 }
 
@@ -135,11 +128,6 @@ body{
 
     .about-ul{
         font-size: 7.5px;
-    }
-
-    
-    .carousel-item {
-        height: 45vh;
     }
 }
 
